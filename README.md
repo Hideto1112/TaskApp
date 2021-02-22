@@ -42,3 +42,5 @@ $ rails server
 
 * **email** : sample@email.com
 * **password** : password
+
+これから復習2/22
